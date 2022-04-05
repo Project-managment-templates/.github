@@ -1,4 +1,4 @@
-# Project management templates 
+# 🗂 Project management templates 
 
 👋 Hey, are you thinking about using GitHub to manage your project? Are you curious about how you can use GitHub to run kanban or Sprint style projects? This repo contains templates for both of these styles, and instructions for how you can re-create them with your ownorganisationn. 
 
